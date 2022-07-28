@@ -1,2 +1,0 @@
-# UMMBOT
-Deprecated code
