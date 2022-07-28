@@ -15,7 +15,7 @@ from utils.checking.bot_start_check_sanction import checkup
 sys.path.insert(1, os.path.join(os.getcwd(), "utils"))
 os.chdir(DIRECTORY)
 
-TOKEN = "Njc3MjEzNTIwNTI5NDU3MTUy.XkQ-PQ.tTvQ_BDpSAjPG9KT1JUj4MCg-Jw"
+TOKEN = ""
 INVITE = "https://discord.com/oauth2/authorize?client_id=677213520529457152&scope=bot&permissions=8"
 
 default_intents = Intents.default()
