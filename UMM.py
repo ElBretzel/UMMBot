@@ -16,7 +16,7 @@ sys.path.insert(1, os.path.join(os.getcwd(), "utils"))
 os.chdir(DIRECTORY)
 
 TOKEN = ""
-INVITE = "https://discord.com/oauth2/authorize?client_id=677213520529457152&scope=bot&permissions=8"
+INVITE = ""
 
 default_intents = Intents.default()
 default_intents.members = True
